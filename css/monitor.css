@@ -1,0 +1,32 @@
+header .header_title--container h1
+{
+  margin-top: 20px;
+}
+
+.plans--container--slider{
+  width: 70%;
+  margin: 0 auto;
+}
+
+footer .left{
+  width: 70%;
+}
+
+footer .left .left-list{
+  display: flex;
+  align-items: flex-end;
+  margin-top: 55px;
+}
+
+footer .left .left-list li{
+  margin-right: 15px;
+}
+
+footer .left .left-list li a{
+  font-size: 1.3rem;
+}
+
+
+footer .right{
+  width: 40%;
+}
