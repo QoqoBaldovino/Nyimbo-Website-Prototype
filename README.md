@@ -1,4 +1,4 @@
-# Nyimbo-Website
+# Nyimbo-Website 🔮
 Prototipo de pagina web de Nyimbo, aplicación ficticia de streaming de musica y podcasts.
 
 Prototype Nyimbo website. Nyimbo is a fictional music and podcast streaming application.
